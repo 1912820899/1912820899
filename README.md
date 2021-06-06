@@ -1,5 +1,5 @@
 <!--
-**1912820899/1912820899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaoxin-sky/xiaoxin-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="1912820899's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=1912820899&show_icons=true">
+<img align="left" alt="xiaoxin-sky's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=xiaoxin-sky&show_icons=true">
