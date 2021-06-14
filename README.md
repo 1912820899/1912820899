@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/00f2da580e32344a3733401187c3a329c3c2cbb3631cfdb8723dbd62a703cc1a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d596173682d53696e67683126636f6c6f723d666636396234266c6162656c3d76697369746f7273267374796c653d666c61742d737175617265">
-  <img src="https://camo.githubusercontent.com/00f2da580e32344a3733401187c3a329c3c2cbb3631cfdb8723dbd62a703cc1a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d596173682d53696e67683126636f6c6f723d666636396234266c6162656c3d76697369746f7273267374796c653d666c61742d737175617265" align="right" data-canonical-src="https://komarev.com/ghpvc/?username=xiaoxin-sky&amp;color=ff69b4&amp;label=visitors&amp;style=flat-square" style="max-width:100%;"></a>
 <img align="left" alt="xiaoxin-sky's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=xiaoxin-sky&show_icons=true">
